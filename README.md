@@ -1,2 +1,2 @@
 ## Social Media App
-[Server Repo]()
+[Server Repo](https://github.com/SumanGurung01/social-media-server.git)
