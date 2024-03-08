@@ -1,0 +1,49 @@
+.upload {
+    padding: 10px;
+}
+
+.upload__container {
+    display: flex;
+    width: 100%;
+    max-width: 1024px;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.upload__container>div>p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.upload__container>input {
+    border: none;
+    outline: none;
+    height: 30px;
+    padding: 4px;
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+
+.upload__container>textarea {
+    border: none;
+    outline: none;
+    height: 100px;
+    padding: 4px;
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+.upload__container>button {
+    width: 100%;
+    max-width: 150px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 100px;
+    background-color: rgb(0, 140, 250);
+    font-size: 16px;
+    color: #ffffff;
+    cursor: pointer;
+}

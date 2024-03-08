@@ -1,0 +1,10 @@
+.modal-body>input {
+    width: 100%;
+    outline: none;
+    border: none;
+    margin: 10px 0px 10px 0px;
+}
+
+.modal-body {
+    margin: 0
+}

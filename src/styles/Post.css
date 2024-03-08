@@ -1,0 +1,77 @@
+.post__container {
+    width: 100%;
+    max-width: 1024px;
+}
+
+.post__container>p {
+    margin: 40px 0px 10px 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.post__card {
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.avatar {
+    justify-content: start;
+}
+
+.avatar-button {
+    justify-content: space-between;
+}
+
+
+.avatar>img {
+    width: 30px;
+    border-radius: 100%;
+}
+
+.avatar>p {
+    margin: 0 0 0 10px
+}
+
+.post__card>h3 {
+    font-size: 16px;
+    margin: 10px 0px 0px 0px;
+}
+
+.post__card>p {
+    font-size: 16px;
+    margin: 10px 0px 20px 0px;
+}
+
+.button-collection {
+    justify-content: start;
+    gap: 30px;
+}
+
+.button {
+    cursor: pointer;
+    justify-content: start;
+}
+
+.button>p {
+    margin: 0 0 0 5px;
+    cursor: pointer;
+}
+
+
+.comment__section>p {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0px 0px 0px
+}
+
+.comment__section>div>p {
+    margin: 10px 0px 0px 0px
+}
+
+.comment__section>div {
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(232, 232, 232);
+    padding: 10px 0px 10px 0px
+}
